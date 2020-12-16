@@ -1,7 +1,7 @@
 {
 	        "name":"hugoBasicExample",
 		        "scripts":{
-				                "build": "hugo server -D",
+				                "build": "/usr/bin/hugo server -D",
 						                "test": "jest"
 								        }
 }
