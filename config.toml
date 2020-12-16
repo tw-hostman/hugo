@@ -4,7 +4,7 @@ copyright = "Copyright &copy; 2019 - Author Name"
 canonifyurls = true
 #theme = "kiera"
 theme = "material"
-themesDir = "../.."
+themesDir = "themes"
 #themesDir = "/sites/hugo/website1/themes"
 
 paginate = 3
