@@ -1,7 +1,7 @@
 {
 	        "name":"hugoBasicExample",
 		        "scripts":{
-				                "build": "/usr/bin/hugo --gc",
+				                "build": "/usr/bin/hugo --gc --minify",
 						                "test": "jest"
 								        }
 }
