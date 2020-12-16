@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Kiera</title>
-    <link>https://hugo-72a2.hostman.site/tags/</link>
-    <description>Recent content in Tags on Kiera</description>
+    <title>Tags on Material</title>
+    <link>https://hugo-9baf.hostman.site/tags/</link>
+    <description>Recent content in Tags on Material</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Author Name</copyright>
     
-	<atom:link href="https://hugo-72a2.hostman.site/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hugo-9baf.hostman.site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
