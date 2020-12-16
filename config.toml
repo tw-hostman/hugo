@@ -1,11 +1,11 @@
-baseurl = "https://www.example.org/"
+baseurl = "https://hugo-72a2.hostman.site/"
 title = "Kiera"
 copyright = "Copyright &copy; 2019 - Author Name"
 canonifyurls = true
 #theme = "kiera"
 theme = "material"
-#themesDir = "../.."
-themesDir = "/sites/hugo/website1/themes"
+themesDir = "../.."
+#themesDir = "/sites/hugo/website1/themes"
 
 paginate = 3
 
