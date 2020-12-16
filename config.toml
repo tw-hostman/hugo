@@ -1,11 +1,9 @@
 baseurl = "https://hugo-72a2.hostman.site/"
-title = "Kiera"
+title = "Material"
 copyright = "Copyright &copy; 2019 - Author Name"
 canonifyurls = true
-#theme = "kiera"
 theme = "material"
 themesDir = "themes"
-#themesDir = "/sites/hugo/website1/themes"
 
 paginate = 3
 
